@@ -1,0 +1,14 @@
+.box {
+  height: 5em;
+  width: 5em;
+  border: .5em black solid;
+  display: inline-block;
+  margin: .5em;
+}
+
+.xit {
+  position: top;
+  float: right;
+  top: 2px;
+  right: 2px;
+}
